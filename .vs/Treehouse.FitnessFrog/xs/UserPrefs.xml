@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D6F7E536-7C34-46FC-A421-3069C9695D61}|">
+  <MonoDevelop.Ide.ItemProperties.Treehouse.FitnessFrog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Treehouse.FitnessFrog/Views/Entries/Index.cshtml">
+    <Files>
+      <File FileName="Treehouse.FitnessFrog/Controllers/EntriesController.cs" Line="63" Column="75" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Add.cshtml" Line="9" Column="28" />
+      <File FileName="Treehouse.FitnessFrog/Models/Entry.cs" Line="43" Column="10" />
+      <File FileName="Treehouse.FitnessFrog/Scripts/jquery.validate.bootstrap.js" Line="19" Column="1" />
+      <File FileName="Treehouse.FitnessFrog/Views/Shared/_Layout.cshtml" Line="67" Column="58" />
+      <File FileName="Treehouse.FitnessFrog/Data/EntriesRepository.cs" Line="91" Column="46" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/_EntryForm.cshtml" Line="2" Column="36" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Edit.cshtml" Line="6" Column="2" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Delete.cshtml" Line="61" Column="15" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Index.cshtml" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Treehouse.FitnessFrog" expanded="True">
+            <Node name="Treehouse.FitnessFrog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Entries" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.Request.Form</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
